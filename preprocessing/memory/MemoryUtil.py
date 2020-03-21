@@ -6,7 +6,7 @@ def memory_optimize(df):
 	print('Memory usage before optimization is: {:.2f} MB'.format(start_mem))
 	for col in df.columns:
 		col_type = df[col].dtype
-		if (col_type != object) & (str(col_type) != 'category'):
+		if (col_type != object) & (str(col_type) != 'category') & (str(col_type) != 'bool'):
 			c_min = df[col].min()
 			c_max = df[col].max()
 			if str(col_type)[0:3] == 'int':
