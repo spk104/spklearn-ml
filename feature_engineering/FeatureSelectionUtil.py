@@ -7,6 +7,8 @@ def correlated_features(df,target_variable,threshold):
 	value = []
 	corrdata = df.corr()[target_variable]
 	for i, index in enumerate(corrdata.index):
+		if index == target_variable:
+			continue
 		if abs(corrdata[index]) > threshold:
 			features.append(index)
 			value.append(corrdata[index])
