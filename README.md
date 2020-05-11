@@ -24,9 +24,21 @@
     - Cramer's Rule
 - Querying data from a matrix
 - K-Means algorithm
+### Class 04_Jan 12
+- Numpy Functions Contd...
+    - Log functions
+    - Trigonometric functions
+    - Math operations
+- Math package
+- Reading input from user
+- Control structures & loops
+    - if / if - else / if - elif - else
+    - for loop
+        - range
+        - pass
+    - List comprehension
+    - Lambda
+- Browsing files & directories using 'os' & 'glob'
 
 ### References
-I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc. 
-
-
-
+I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc.
