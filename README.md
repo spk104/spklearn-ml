@@ -39,6 +39,23 @@
     - List comprehension
     - Lambda
 - Browsing files & directories using 'os' & 'glob'
+### Class 06_Jan 19
+- Machine Learning
+    - Supervised, Unsupervised
+- Variable types
+    - Numerical
+    - Categorical
+- Statistics types
+    - Descriptive
+    - Inferential
+- Mean, Median, Mode
+    - Arithmetic mean
+    - Geometric mean
+    - Harmonic mean
+    - Error, Cost
+    - Mean Absolute Error
+- Outliers & InterQuartile Range
+
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc.
