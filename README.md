@@ -55,7 +55,13 @@
     - Error, Cost
     - Mean Absolute Error
 - Outliers & InterQuartile Range
-
+### Class 07_Jan 25
+- Control structures & loops
+    - While loop
+    - Break
+    - Continue
+- chr() function
+- Dictionaries
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc.
