@@ -62,6 +62,18 @@
     - Continue
 - chr() function
 - Dictionaries
+### Class 08_Feb 01
+- Correlation
+- OpenCV - Intro
+- Set
+- Pandas
+- Machine Learning - Pre-processing - Intro
+    - Null value treatment
+    - Label encoding
+    - One Hot Encoding
+    - Dummy variables
+- Practice - Credit risk analysis
+
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc.
