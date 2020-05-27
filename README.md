@@ -72,7 +72,14 @@
     - Label encoding
     - One Hot Encoding
     - Dummy variables
+    - Normalization
+        - MinMax
+        - ZScore
 - Practice - Credit risk analysis
+
+### Class 09_Feb 02
+- Training/Testing/Holdout dataset
+- Memory treatment
 
 
 ### References
