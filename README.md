@@ -80,7 +80,12 @@
 ### Class 09_Feb 02
 - Training/Testing/Holdout dataset
 - Memory treatment
+- Standard Scalar
 
+### Class 10_Feb 08
+- Pandas - joins
+- Pandas - loc v/s iloc
+- Pandas - group by
 
 ### References
-I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience etc.
+I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience, tutorialspoint etc.
