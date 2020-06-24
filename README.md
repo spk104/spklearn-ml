@@ -87,5 +87,42 @@
 - Pandas - loc v/s iloc
 - Pandas - group by
 
+### Class 11_Feb 09
+- Machine Learning
+    - Train test split
+    - Validation
+- Probability Distributions
+    - Discrete Distribution
+    - Continous Distribution
+- Imbalanced Dataset
+    - Under Sampling
+    - Over Sampling
+    - SMOTE
+### Class 12_Feb 15
+- Exploratory Data Analysis
+    - Matplotlib plots
+    
+### Class 13_Feb 22
+- Exploratory Data Analysis Contd...
+
+
+### Class 15_Feb 29
+- Unsupervised Algorithms
+    - Clustering
+        - K-Means
+        - K-Modes
+        - K-Prototypes
+        - Agglomerative (Hierarchical Clustering)
+### Class 16_Mar 01
+- Functions
+    - Modules
+    - Nested Functions
+    - Variable scope
+- Map Function
+- Filter Function
+- Reduce Function
+- Zip Function
+
+
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience, tutorialspoint etc.
