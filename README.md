@@ -123,6 +123,13 @@
 - Reduce Function
 - Zip Function
 
+### Class 17_Mar 07
+- Steps involved in model building
+
+### Class 18_Mar 08
+- Hypothesis testing
+
+
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience, tutorialspoint etc.
