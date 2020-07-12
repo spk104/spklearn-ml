@@ -129,6 +129,16 @@
 ### Class 18_Mar 08
 - Hypothesis testing
 
+### Class 19_Mar 21
+- Introduction to Algebra
+    - Scalars & Vectors
+    - Vector addition, subtraction, multiplication
+- Introduction to linear regression
+
+### Class 20_Mar 28
+- Algebra contd
+- Determinant of a matrix
+- Eigen values and Eigen vectors
 
 
 ### References
