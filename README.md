@@ -140,6 +140,33 @@
 - Determinant of a matrix
 - Eigen values and Eigen vectors
 
+### Class 21_Mar 29
+- Linear Regression
+    - Assumptions
+    - R2
+
+### Class 22_Apr 04
+- Linear Regression
+    - Bias v/s variance
+    - Regularization
+        - Ridge
+        - Lasso
+        - ElasticNet
+- Note on KNN
+
+### Class 23_Apr 05
+- Linear Regression
+    - Gradient Descent
+
+### Class 24_Apr 11
+- Logistic Regression
+    - Confusion Matrix
+    - ROC AUC 
+    - Binary Classification
+    - Multi class classification
+- F-Statistics
+    - ANOVA
+
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience, tutorialspoint etc.
