@@ -167,6 +167,13 @@
 - F-Statistics
     - ANOVA
 
+### Class 25_Apr 18
+- CART Algorithms
+    - Decision Tree Classification
+    - Entropy
+    - GINI Index
+    - Information GAIN
+    - Random Forest Classification
 
 ### References
 I referred to multiple sources in internet for preparing these notes. Sources - Youtube(StatQuest, 3Blue1Brown, The Organic Chemistry Tutor), Wiki, Investopedia, towardsdatascience, tutorialspoint etc.
